@@ -51,10 +51,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "C/C++",
-  "React",
-  "Python",
-  "Node",
-  "Java",
+    "JAVA,Python,C/C++",
+  "JS,React,Node",
+  "MySQL",
+  "Cisco Packedge Tracer",
+  "Network and IP",
+  "Linux(centOS)",
 ];
