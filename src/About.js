@@ -23,9 +23,9 @@ return(
     </a>
       </div>
       </div>
-    <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+      <div className="lg:max-w-lg lg:w-full max-auto md:w-1/2 w-5/6">
       <img
-        className="w-80 h-80 object-cover object-center rounded-full opacity-50"
+     className="w-60 h-60 object-cover object-center rounded-full opacity-50"
         alt="hero"
         src="./wp.jpg"
         />
