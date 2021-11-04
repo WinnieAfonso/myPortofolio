@@ -16,12 +16,16 @@ export default function Projects() {
 
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Still working...
+            <p>Currently working on <a href="https://instagram.com/programming_withme?utm_medium=copy_link"> <b> INSTAGRAM</b></a> page, teaching programming.
           </p>
+           <p>The idea is to create my own community for juinior programmers, that does not have so many experience.
+           </p>
+</p>
 
         </div>
         <div className="flex flex-wrap -m-4">
 
-              <div className="flex relative">
+             <div className="flex relative mx-auto justify-center">
                 <img
                   alt="work"
                   className="w-20 rounded-full object-contain object-center"
